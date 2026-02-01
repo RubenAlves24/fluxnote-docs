@@ -253,20 +253,8 @@
         </header>
 
         <main>
-            <div class="sprints-grid">
-                <a href="Sprint 1/index.html" class="sprint-card">
-                    <div class="sprint-icon">S1</div>
-                    <h2>Sprint 1</h2>
-                    <p>Documentação técnica referente ao primeiro sprint do projeto.</p>
-                    <span class="sprint-status">Disponível</span>
-                </a>
-
-                <a href="Sprint 2/index.html" class="sprint-card disabled">
-                    <div class="sprint-icon">S2</div>
-                    <h2>Sprint 2</h2>
-                    <p>Documentação técnica referente ao segundo sprint do projeto.</p>
-                    <span class="sprint-status em-breve">Em Breve</span>
-                </a>
+            <div class="sprints-grid" id="sprints-container">
+                <!-- Os cards são gerados automaticamente pelo JavaScript -->
             </div>
         </main>
 
@@ -274,5 +262,34 @@
             <p>© 2026 • Projeto ESA</p>
         </footer>
     </div>
+
+    <script>
+        const SPRINTS_DISPONIVEIS = [1];
+        const TOTAL_SPRINTS = 4;
+
+        // Função para criar o HTML de um card
+        function createSprintCard(num, disponivel) {
+            const ordinal = ['primeiro', 'segundo', 'terceiro', 'quarto', 'quinto', 'sexto'][num - 1] || `${num}º`;
+            return `
+                <a href="Sprint%20${num}/index.html" class="sprint-card${disponivel ? '' : ' disabled'}" ${disponivel ? '' : 'onclick="return false;"'}>
+                    <div class="sprint-icon">S${num}</div>
+                    <h2>Sprint ${num}</h2>
+                    <p>Documentação técnica referente ao ${ordinal} sprint do projeto.</p>
+                    <span class="sprint-status${disponivel ? '' : ' em-breve'}">${disponivel ? 'Disponível' : 'Em Breve'}</span>
+                </a>
+            `;
+        }
+
+        function init() {
+            const container = document.getElementById('sprints-container');
+            container.innerHTML = Array.from({ length: TOTAL_SPRINTS }, (_, i) => {
+                const sprintNum = i + 1;
+                const disponivel = SPRINTS_DISPONIVEIS.includes(sprintNum);
+                return createSprintCard(sprintNum, disponivel);
+            }).join('');
+        }
+
+        init();
+    </script>
 </body>
 </html>
