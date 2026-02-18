@@ -1,0 +1,1 @@
+search_result['236']=["topic_000000000000008D.html","AcceptDocumentInviteResponseDto.DocumentRole Property","Role a ser atribuído ao usuário convidado ao aceitar o convite.\r\n0 = Viewer, 1 = Editor. Este campo é necessário para que o\r\nfrontend saiba qual permissão atribuir ao usuário quando ele aceitar o conv..."];

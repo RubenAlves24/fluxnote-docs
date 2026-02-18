@@ -1,0 +1,1 @@
+search_result['37']=["topic_000000000000001B.html","DocumentInvitesController.AcceptInvite Method","Aceita um convite. Cria TeamMember (se necessario) e DocumentPermission."];

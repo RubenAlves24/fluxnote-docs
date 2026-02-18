@@ -1,0 +1,1 @@
+search_result['971']=["topic_0000000000000241.html","TestAIService.LastReceivedText Property","Último texto recebido pelo GenerateSummaryAsync (para assertions)."];

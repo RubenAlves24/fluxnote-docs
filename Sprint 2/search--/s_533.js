@@ -1,0 +1,1 @@
+search_result['533']=["topic_000000000000012E.html","Document.FolderId Property","Identificador da pasta onde o documento está organizado (opcional).\r\nNull indica que o documento não está em nenhuma pasta."];

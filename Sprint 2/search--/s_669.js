@@ -1,0 +1,1 @@
+search_result['669']=["topic_0000000000000193.html","User.AuthProvider Property","Método de autenticação utilizado para criar a conta."];

@@ -1,0 +1,1 @@
+c['575']=[['576',"DuplicateDocument_AsMember_ReturnsForbidden Method","topic_000000000000020B.html",0],['577',"DuplicateDocument_AsOwner_CreatesNewDocument Method","topic_000000000000020A.html",0],['578',"DuplicateDocument_DoesNotCopyPermissions Method","topic_000000000000020C.html",0]];

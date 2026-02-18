@@ -1,0 +1,1 @@
+search_result['75']=["topic_0000000000000032.html","FoldersController.CreateFolder Method","Cria uma nova pasta numa equipa. Apenas Owner ou TeamAdmin."];

@@ -1,0 +1,1 @@
+c['671']=[['672',"AcceptInvite_CreatesMemberAndPermission_WithRole Method","topic_0000000000000260.html",0],['673',"CreateInvite_AsMember_ReturnsForbidden Method","topic_000000000000025F.html",0],['674',"CreateInvite_AsOwner_Succeeds Method","topic_000000000000025E.html",0],['675',"Invitee_Can_Access_Document_After_Accepting Method","topic_0000000000000261.html",0]];

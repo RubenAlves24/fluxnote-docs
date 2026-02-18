@@ -1,0 +1,1 @@
+search_result['780']=["topic_00000000000001CD.html","SmtpEmailSender Class","Implementação de IEmailSender para produção usando SMTP.\r\nEnvia emails reais através de um servidor SMTP configurado."];

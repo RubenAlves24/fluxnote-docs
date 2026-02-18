@@ -1,0 +1,1 @@
+search_result['124']=["topic_000000000000004F.html","FluxnoteServerContext Class","Contexto principal do Entity Framework Core para a aplicação Fluxnote.\r\nEstende IdentityDbContext para integração com ASP.NET Core Identity."];

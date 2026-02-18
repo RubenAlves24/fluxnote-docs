@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"fluxnote-backend Reference","topic_000000000000028D.html"],['265',"Fluxnote.Backend.Dtos.TeamInvites Namespace","topic_00000000000000DB.html"],['270',"CreateTeamInviteRequest Class","topic_00000000000000DF.html"],['271',"Properties","topic_00000000000000DF_props--.html"],['272',"ExpirationDays Property","topic_00000000000000E1.html"]];

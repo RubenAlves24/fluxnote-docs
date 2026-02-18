@@ -1,0 +1,1 @@
+search_result['255']=["topic_0000000000000096.html","DocumentInviteDto.DocumentTitle Property","Título do documento para o qual o convite foi criado. Este campo é incluído para\r\nfacilitar a exibição de informações sobre o convite, sem a necessidade de uma\r\nconsulta adicional para obter o título ..."];

@@ -1,0 +1,1 @@
+search_result['195']=["topic_0000000000000073.html","UpdateProfileRequest Class","DTO para pedido de atualização de perfil de utilizador.\r\nUsado no endpoint PUT /api/auth/users/me."];

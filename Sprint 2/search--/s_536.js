@@ -1,0 +1,1 @@
+search_result['536']=["topic_0000000000000131.html","Document.CreatedBy Property","Referência de navegação para o utilizador criador."];

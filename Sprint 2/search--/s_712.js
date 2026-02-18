@@ -1,0 +1,1 @@
+search_result['712']=["topic_00000000000001AC.html","IAIService.GenerateSummaryAsync Method","Gera um resumo a partir do texto fornecido."];

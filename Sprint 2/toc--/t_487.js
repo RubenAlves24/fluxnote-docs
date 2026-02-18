@@ -1,0 +1,1 @@
+c['487']=[['488',"TeamAutorizationService Constructor","topic_00000000000001B5.html",0],['489',"Methods","topic_00000000000001B4_methods--.html",1]];

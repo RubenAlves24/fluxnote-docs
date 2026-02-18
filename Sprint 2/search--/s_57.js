@@ -1,0 +1,1 @@
+search_result['57']=["topic_0000000000000025.html","DocumentsController.GetDocuments Method","Lista os documentos acessíveis pelo utilizador autenticado."];

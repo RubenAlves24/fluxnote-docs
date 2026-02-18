@@ -1,0 +1,1 @@
+search_result['492']=["topic_000000000000011A.html","initial Class","A base class inherited by each EF Core migration."];

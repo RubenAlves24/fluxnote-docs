@@ -1,0 +1,1 @@
+search_result['262']=["topic_000000000000009D.html","DocumentInviteDto.IsUsed Property","Indica se o convite já foi utilizado. Um convite é considerado utilizado\r\nse já tiver sido aceito por um usuário."];

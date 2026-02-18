@@ -1,0 +1,1 @@
+search_result['527']=["topic_0000000000000128.html","Document.PlainText Property","Texto extraído do conteúdo para pesquisa full-text."];

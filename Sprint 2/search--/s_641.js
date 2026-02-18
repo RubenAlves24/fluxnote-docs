@@ -1,0 +1,1 @@
+search_result['641']=["topic_000000000000017E.html","TeamMember Class","Representa a associação entre um utilizador e uma equipa.\r\nDefine o papel/permissões do utilizador dentro da equipa."];

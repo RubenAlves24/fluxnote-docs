@@ -1,0 +1,1 @@
+search_result['504']=["topic_000000000000011E.html","AddFolders Class","A base class inherited by each EF Core migration."];

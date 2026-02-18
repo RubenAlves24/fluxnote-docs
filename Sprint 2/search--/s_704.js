@@ -1,0 +1,1 @@
+search_result['704']=["topic_00000000000001A9.html","GeminiOptions.ApiKey Property","Chave de API do Google Gemini.\r\nObter em: https://aistudio.google.com/apikey"];

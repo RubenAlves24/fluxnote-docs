@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"fluxnote-backend Reference","topic_000000000000028D.html"],['195',"Fluxnote.Backend.Dtos.Documents Namespace","topic_000000000000009F.html"],['220',"DocumentDto Class","topic_00000000000000A4.html"],['221',"Properties","topic_00000000000000A4_props--.html"],['227',"Id Property","topic_00000000000000A5.html"]];

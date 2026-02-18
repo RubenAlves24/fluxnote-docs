@@ -1,0 +1,1 @@
+search_result['681']=["topic_000000000000019D.html","AccountStatus Enumeration","Define os estados possíveis de uma conta de utilizador."];

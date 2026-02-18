@@ -1,0 +1,1 @@
+search_result['604']=["topic_0000000000000163.html","RefreshToken.IdleDays Property","Número de dias máximo de inatividade permitida."];

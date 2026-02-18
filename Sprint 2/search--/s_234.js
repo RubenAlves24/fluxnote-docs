@@ -1,0 +1,1 @@
+search_result['234']=["topic_000000000000008B.html","AcceptDocumentInviteResponseDto.DocumentTitle Property","Titulo do documento para o qual o convite foi aceito. Este campo é incluído para facilitar a exibição de informações sobre o documento, sem a necessidade de uma consulta adicional para obter o título ..."];

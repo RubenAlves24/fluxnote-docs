@@ -1,0 +1,1 @@
+search_result['133']=["topic_0000000000000053.html","FluxnoteServerContext.TeamInvite Property","DbSet para convites de equipas (permite gerir convites pendentes e aceites)."];

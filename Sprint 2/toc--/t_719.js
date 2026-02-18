@@ -1,0 +1,1 @@
+c['719']=[['720',"DeleteTeamMember_RemovesMember Method","topic_000000000000028C.html",0],['721',"PostTeamMember_AsOwner_CreatesMember Method","topic_000000000000028A.html",0],['722',"PostTeam_CreatesOwnerAsFirstTeamMember Method","topic_0000000000000289.html",0],['723',"PutTeamMember_UpdatesMemberRole Method","topic_000000000000028B.html",0]];

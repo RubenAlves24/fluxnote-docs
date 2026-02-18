@@ -1,0 +1,1 @@
+search_result['66']=["topic_000000000000002E.html","DocumentsController.PermanentDeleteDocument Method","Elimina permanentemente um documento da lixeira. Apenas o criador pode eliminar."];

@@ -1,0 +1,1 @@
+c['96']=[['97',"DeleteTeam Method","topic_0000000000000049.html",0],['98',"GetTeam Method","topic_0000000000000046.html",0],['99',"GetTeams Method","topic_0000000000000045.html",0],['100',"PostTeam Method","topic_0000000000000048.html",0],['101',"PutTeam Method","topic_0000000000000047.html",0]];

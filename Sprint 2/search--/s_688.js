@@ -1,0 +1,1 @@
+search_result['688']=["topic_00000000000001A3.html","AccountStatusExtensions.ToDisplayString Method","Converte o valor do enum para string legível."];

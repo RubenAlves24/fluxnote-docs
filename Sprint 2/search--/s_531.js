@@ -1,0 +1,1 @@
+search_result['531']=["topic_000000000000012C.html","Document.IsDeleted Property","Indica se o documento está na lixeira (soft delete)."];

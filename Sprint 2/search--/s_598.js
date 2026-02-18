@@ -1,0 +1,1 @@
+search_result['598']=["topic_000000000000015D.html","RefreshToken.ExpiresAt Property","Momento de expiração do token (UTC)."];

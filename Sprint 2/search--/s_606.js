@@ -1,0 +1,1 @@
+search_result['606']=["topic_0000000000000165.html","RefreshToken.isRevoked Property","Indica se o token foi revogado (propriedade calculada)."];

@@ -1,0 +1,1 @@
+c['597']=[['598',"DocumentPermissionIntegrationTests Constructor","topic_000000000000021F.html",0],['599',"Methods","topic_000000000000021E_methods--.html",1]];

@@ -1,0 +1,1 @@
+search_result['274']=["topic_00000000000000A4.html","DocumentDto Class","DTO leve para listagem de documentos (sem conteúdo).\r\nUsado na resposta do endpoint GET /api/documents."];

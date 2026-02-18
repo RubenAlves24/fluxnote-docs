@@ -1,0 +1,1 @@
+search_result['1026']=["topic_0000000000000262.html","DocumentSummaryIntegrationTests Class","Testes de integração para o endpoint POST /api/documents/{id}/summary.\r\nTesta a integração com o serviço de IA (3rd party - Google Gemini) via TestAIService fake."];

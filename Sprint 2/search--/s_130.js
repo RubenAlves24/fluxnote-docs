@@ -1,0 +1,1 @@
+search_result['130']=["topic_0000000000000050.html","FluxnoteServerContext Constructor","Construtor com injeção de opções de configuração."];

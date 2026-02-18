@@ -1,0 +1,1 @@
+search_result['252']=["topic_0000000000000093.html","DocumentInviteDto.Id Property","Identificador único do convite.\r\nEste é o ID do convite na base de dados e é usado para referência interna."];

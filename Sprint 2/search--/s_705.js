@@ -1,0 +1,1 @@
+search_result['705']=["topic_00000000000001AA.html","GeminiOptions.Model Property","Modelo a utilizar.\r\nRecomendado: \"gemini-2.5-flash\" (gratuito, rápido, 1M tokens/dia)."];

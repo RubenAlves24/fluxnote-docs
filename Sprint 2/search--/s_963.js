@@ -1,0 +1,1 @@
+search_result['963']=["topic_000000000000023E.html","TestAIService Class","Fake do serviço de IA para testes de integração.\r\nPermite configurar respostas e simular erros sem chamar a API real do Gemini."];

@@ -1,0 +1,1 @@
+search_result['34']=["topic_0000000000000018.html","DocumentInvitesController.CreateInvite Method","Cria um convite por link para um documento.\r\nApenas Owner ou TeamAdmin podem criar convites."];

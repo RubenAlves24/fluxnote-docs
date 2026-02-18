@@ -1,0 +1,1 @@
+search_result['751']=["topic_00000000000001BF.html","IDevEmailStore.Get Method","Obtém o último link de confirmação guardado para um email."];

@@ -1,0 +1,1 @@
+search_result['620']=["topic_000000000000016E.html","Team.DeletionScheduled Property","Data agendada para eliminação automática da equipa."];

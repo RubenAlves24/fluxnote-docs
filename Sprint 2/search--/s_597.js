@@ -1,0 +1,1 @@
+search_result['597']=["topic_000000000000015C.html","RefreshToken.LastUsedAt Property","Último momento em que o token foi usado para refresh (UTC)."];

@@ -1,0 +1,1 @@
+search_result['599']=["topic_000000000000015E.html","RefreshToken.CreatedAt Property","Momento de criação deste registo de token (UTC)."];

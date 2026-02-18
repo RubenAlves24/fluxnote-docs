@@ -1,0 +1,1 @@
+search_result['714']=["topic_00000000000001AE.html","TokenService Class","Serviço responsável pela geração e gestão de tokens de autenticação."];

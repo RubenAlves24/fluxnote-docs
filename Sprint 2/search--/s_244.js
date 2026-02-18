@@ -1,0 +1,1 @@
+search_result['244']=["topic_0000000000000090.html","CreateDocumentInviteRequest.Role Property","Role a ser atribuído ao usuário convidado ao aceitar o convite.\r\n0 = Viewer, 1 = Editor."];

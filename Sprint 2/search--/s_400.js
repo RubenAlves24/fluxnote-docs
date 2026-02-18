@@ -1,0 +1,1 @@
+search_result['400']=["topic_00000000000000E6.html","TeamInviteDto.TeamName Property","Título da equipa para o qual o convite foi criado. Este campo é incluído para\r\nfacilitar a exibição de informações sobre o convite, sem a necessidade de uma\r\nconsulta adicional para obter o título da ..."];

@@ -1,0 +1,1 @@
+search_result['605']=["topic_0000000000000164.html","RefreshToken.isExpired Property","Indica se o token já expirou (propriedade calculada)."];

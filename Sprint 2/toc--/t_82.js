@@ -1,0 +1,1 @@
+c['82']=[['83',"AcceptInvite Method","topic_000000000000003C.html",0],['84',"CreateInvite Method","topic_0000000000000039.html",0],['85',"GetByTeam Method","topic_000000000000003A.html",0],['86',"GetInviteInfo Method","topic_000000000000003B.html",0],['87',"RevokeInvite Method","topic_000000000000003D.html",0]];

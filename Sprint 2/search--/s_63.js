@@ -1,0 +1,1 @@
+search_result['63']=["topic_000000000000002B.html","DocumentsController.DeleteDocument Method","Move um documento para a lixeira (soft delete). Apenas o Owner da equipa pode apagar."];

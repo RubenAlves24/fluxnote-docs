@@ -1,0 +1,1 @@
+search_result['338']=["topic_00000000000000CB.html","UpdateDocumentRequest Class","DTO para pedido de atualização de documento.\r\nUsado no endpoint PUT /api/documents/{id}."];

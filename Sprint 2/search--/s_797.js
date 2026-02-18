@@ -1,0 +1,1 @@
+search_result['797']=["topic_00000000000001D4.html","BlobStorageService Class","/// Implementação de IStorageService para produção usando Azure Blob Storage.\r\n/// Faz upload de imagens para um container no Azure e retorna a URL pública.\r\n///"];

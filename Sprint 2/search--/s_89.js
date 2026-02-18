@@ -1,0 +1,1 @@
+search_result['89']=["topic_000000000000003B.html","TeamInvitesController.GetInviteInfo Method","Obtém informação pública de um convite (preview antes de aceitar).\r\nRequer autenticação mas não precisa ser membro da equipa."];

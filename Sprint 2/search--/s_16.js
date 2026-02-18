@@ -1,0 +1,1 @@
+search_result['16']=["topic_000000000000000B.html","AuthController.Me Method","Obtém o perfil completo do utilizador autenticado."];

@@ -1,0 +1,1 @@
+search_result['46']=["topic_000000000000001F.html","DocumentPermissionsController.GetByDocument Method","Lista as permissões de um documento específico.\r\nRequer ser membro da equipa do documento."];

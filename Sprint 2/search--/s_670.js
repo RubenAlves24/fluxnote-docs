@@ -1,0 +1,1 @@
+search_result['670']=["topic_0000000000000194.html","User.Teams Property","Coleção de associações a equipas (via TeamMember)."];

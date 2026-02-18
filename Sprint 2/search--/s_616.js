@@ -1,0 +1,1 @@
+search_result['616']=["topic_000000000000016A.html","Team.OwnerId Property","Identificador do proprietário da equipa."];

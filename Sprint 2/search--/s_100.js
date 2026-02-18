@@ -1,0 +1,1 @@
+search_result['100']=["topic_0000000000000041.html","TeamMembersController.PutTeamMember Method","Atualiza o papel (TeamRole) de um membro de equipa.\r\nApenas o Owner pode alterar roles."];

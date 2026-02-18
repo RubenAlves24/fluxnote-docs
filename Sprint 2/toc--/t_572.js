@@ -1,0 +1,1 @@
+c['572']=[['573',"DocumentDuplicateIntegrationTests Class","topic_0000000000000208.html",1],['579',"DocumentIntegrationTests Class","topic_000000000000020D.html",1],['597',"DocumentPermissionIntegrationTests Class","topic_000000000000021E.html",1],['612',"DocumentRoleIntegrationTests Class","topic_000000000000022C.html",1]];

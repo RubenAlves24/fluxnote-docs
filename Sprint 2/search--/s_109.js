@@ -1,0 +1,1 @@
+search_result['109']=["topic_0000000000000045.html","TeamsController.GetTeams Method","Lista todas as equipas onde o utilizador é membro."];

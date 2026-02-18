@@ -1,0 +1,1 @@
+search_result['122']=["topic_000000000000004D.html","UploadsController.GetImage Method","/// Serve imagens guardadas localmente (apenas em Development).\r\n    /// Em produção, as imagens são servidas diretamente pelo Azure Blob Storage.\r\n    ///"];

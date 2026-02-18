@@ -1,0 +1,1 @@
+search_result['972']=["topic_0000000000000242.html","TestAIService.CallCount Property","Número de vezes que o GenerateSummaryAsync foi chamado."];

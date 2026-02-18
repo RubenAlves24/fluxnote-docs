@@ -1,0 +1,1 @@
+search_result['91']=["topic_000000000000003D.html","TeamInvitesController.RevokeInvite Method","Revoga um convite (torna-o inutilizavel).\r\nApenas Owner ou TeamAdmin podem revogar."];

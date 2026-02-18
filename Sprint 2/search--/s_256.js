@@ -1,0 +1,1 @@
+search_result['256']=["topic_0000000000000097.html","DocumentInviteDto.TeamId Property","Identificador da equipa à qual o documento pertence. Este campo é incluído para\r\nfacilitar a exibição de informações sobre o convite, sem a necessidade de uma\r\nconsulta adicional para obter o ID da eq..."];

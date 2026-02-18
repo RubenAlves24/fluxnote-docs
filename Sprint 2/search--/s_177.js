@@ -1,0 +1,1 @@
+search_result['177']=["topic_000000000000006B.html","LoginRequest.RememberMe Property","Indica se a sessão deve ter duração prolongada (30 dias vs 7 dias)."];

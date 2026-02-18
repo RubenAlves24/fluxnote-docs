@@ -1,0 +1,1 @@
+search_result['404']=["topic_00000000000000EA.html","TeamInviteDto.IsUsed Property","Indica se o convite já foi utilizado. Um convite é considerado utilizado\r\nse já tiver sido aceito por um usuário."];

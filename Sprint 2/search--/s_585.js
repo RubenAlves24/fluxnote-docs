@@ -1,0 +1,1 @@
+search_result['585']=["topic_0000000000000155.html","RefreshToken Class","Representa um token de atualização (refresh token) para autenticação JWT.\r\nPermite renovar o access token sem necessidade de nova autenticação com credenciais."];

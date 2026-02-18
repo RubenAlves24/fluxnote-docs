@@ -1,0 +1,1 @@
+search_result['592']=["topic_0000000000000157.html","RefreshToken.TokenHash Property","Hash SHA256 do token em Base64 (índice único)."];

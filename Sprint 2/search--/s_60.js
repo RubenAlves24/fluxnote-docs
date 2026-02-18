@@ -1,0 +1,1 @@
+search_result['60']=["topic_0000000000000028.html","DocumentsController.GenerateSummary Method","Gera um resumo do documento usando IA (Google Gemini)."];

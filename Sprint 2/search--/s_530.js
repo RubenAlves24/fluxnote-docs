@@ -1,0 +1,1 @@
+search_result['530']=["topic_000000000000012B.html","Document.CreatedById Property","Identificador do utilizador que criou o documento (FK para User)."];

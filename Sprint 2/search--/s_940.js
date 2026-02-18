@@ -1,0 +1,1 @@
+search_result['940']=["topic_000000000000022C.html","DocumentRoleIntegrationTests Class","Testes de integração para a role efetiva (Editor/Viewer) retornada no DocumentDetailDto.\r\nVerifica que:\r\n- Owner recebe sempre role \"Editor\" (bypass à DocumentRole)\r\n- TeamAdmin e Members recebem a ro..."];

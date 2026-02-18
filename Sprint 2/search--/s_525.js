@@ -1,0 +1,1 @@
+search_result['525']=["topic_0000000000000126.html","Document.TeamId Property","Identificador da equipa proprietária (FK para Team)."];

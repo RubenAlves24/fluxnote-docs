@@ -1,0 +1,1 @@
+search_result['618']=["topic_000000000000016C.html","Team.UpdatedAt Property","Data e hora da última modificação da equipa (UTC)."];
