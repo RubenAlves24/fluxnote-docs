@@ -1,0 +1,1 @@
+search_result['127']=["topic_0000000000000044.html","FoldersController.DeleteFolder Method","Elimina uma pasta. Documentos ficam soltos (FolderId = null). Apenas Owner ou TeamAdmin."];

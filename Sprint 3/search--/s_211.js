@@ -1,0 +1,1 @@
+search_result['211']=["topic_000000000000006B.html","FluxnoteServerContext.DocumentVersion Property","DbSet para versões de documentos (criadas ao fechar sessão de edição)."];

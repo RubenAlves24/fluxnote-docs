@@ -1,0 +1,1 @@
+search_result['187']=["topic_000000000000005D.html","UploadsController.UploadImage Method","Faz upload de uma imagem e retorna a URL pública."];

@@ -1,0 +1,1 @@
+search_result['267']=["topic_0000000000000080.html","LoginRequest Class","DTO para pedido de autenticação (login).\r\nUsado no endpoint POST /api/auth/login."];

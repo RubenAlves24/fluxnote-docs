@@ -1,0 +1,1 @@
+search_result['143']=["topic_000000000000004A.html","TeamInvitesController.GetByTeam Method","Lista convites ativos de uma equipa.\r\nApenas Owner ou TeamAdmin podem ver."];

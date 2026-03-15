@@ -1,0 +1,1 @@
+search_result['206']=["topic_0000000000000066.html","FluxnoteServerContext.DocumentPermission Property","Representa o set de Permissões de Documento."];

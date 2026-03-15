@@ -1,0 +1,1 @@
+search_result['79']=["topic_000000000000002D.html","DocumentsController.GenerateContent Method","Gera conteúdo novo usando IA com base num prompt do utilizador.\r\nO conteúdo do documento e os ficheiros de contexto são incluídos para informar a geração."];
